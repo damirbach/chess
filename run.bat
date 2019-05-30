@@ -1,0 +1,1 @@
+java -jar Chess_13_12_18_OpenBeta_missing_tooltips_.jar
